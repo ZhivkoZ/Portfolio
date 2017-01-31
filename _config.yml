@@ -1,0 +1,25 @@
+title: Zhivko Zhelev
+description: My Personal Portfolio
+author: Zhivko Zhelev
+logo: static/img/avatar.png
+github: https://github.com/ZhivkoZ
+about: Freelance developer
+
+baseurl:
+url:
+
+disqus_shortname: zhivkoz
+google_analytics: UA-87160933-1
+
+share:
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
