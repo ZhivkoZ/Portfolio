@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is my personal portfolio website, made for showing developer doings. Also big thanks to the <a href="https://jekyllrb.com/community/">Jekyll</a> community!
+This website wouldn't be so cool if it wasn't for the <a href="https://jekyllrb.com/community/">Jekyll</a> community, so check them out! And this is a personal portfolio website, deployed to show my web projects. ;) 
