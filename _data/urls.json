@@ -15,11 +15,4 @@
     "url": "/projects",
     "icon": "fa-desktop"
   },
-
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
-  }
 ]
