@@ -5,7 +5,7 @@ logo: static/img/avatar.png
 about: Freelance developer
 
 base.url: https://zhivkoz.github.io
-url: /Porfolio
+url: /Portfolio
 permalink:      /:title/
 disqus_shortname: zhivkoz
 google_analytics: UA-87160933-1
