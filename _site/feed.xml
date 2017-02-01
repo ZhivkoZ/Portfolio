@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhivko Zhelev</title>
+    <description>My Personal Portfolio</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 01 Feb 2017 12:41:39 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2017 12:41:39 +0200</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Welcome!</title>
+        <description>&lt;p&gt;Hi, this is a blog post in my portfolio website, and here in my portfolio website you can find my web projects! Go ahead and check them- few of my projects are listed in the &lt;a href=&quot;http://zhivkoz.github.io/Portfolio/projects/&quot;&gt;/projects/&lt;/a&gt; page. I accept any suggestions to what can I do better or make some changes, so feel free to comment below!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Jan 2017 15:50:39 +0200</pubDate>
+        <link>http://localhost:4000/others/2017/01/31/Welcome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/others/2017/01/31/Welcome.html</guid>
+        
+        
+        <category>others</category>
+        
+      </item>
+    
+  </channel>
+</rss>
