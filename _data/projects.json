@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Cool project 1",
-		"image": "/Porfolio/static/projects/heroku-front.PNG",
+		"image": "heroku-front.PNG",
 		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku","API"]
