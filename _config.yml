@@ -2,10 +2,9 @@ title: Zhivko Zhelev
 description: My Personal Portfolio
 author: Zhivko Zhelev
 logo: static/img/avatar.png
-github: https://github.com/ZhivkoZ
 about: Freelance developer
 
-baseurl:
+
 url: /Porfolio
 
 disqus_shortname: zhivkoz
@@ -13,8 +12,7 @@ google_analytics: UA-87160933-1
 
 share:
   fb_appid: 000000000000
-jekyll-mentions:
-    base_url: /Portfolio
+
 
 enableTags: true
 tagarray: []
@@ -24,3 +22,5 @@ per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
+jekyll-mentions:
+    base_url: /Portfolio
