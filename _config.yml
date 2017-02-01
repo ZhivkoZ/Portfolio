@@ -13,7 +13,8 @@ google_analytics: UA-87160933-1
 
 share:
   fb_appid: 000000000000
-
+jekyll-mentions:
+    base_url: /Portfolio
 
 enableTags: true
 tagarray: []
