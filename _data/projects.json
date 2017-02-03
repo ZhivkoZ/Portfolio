@@ -212,16 +212,17 @@
 		"tags": ["HTML","CSS","Parallax"]
 	},
 	{
+		"name": "Band-logo",
+		"image": "tmf.JPEG",
+		"date": "Oct 2015",
+		"tags": ["Illustrator","CorelDraw"]
+	},
+	{
 		"name": "Codecademy Profile",
 		"image": "codecademy.PNG",
 		"url": "https://www.codecademy.com/zhivko73656",
 		"date": "Oct 2016",
 		"tags": ["Javascript","codecademy"]
 	},
-	{
-		"name": "Band-logo",
-		"image": "tmf.JPG",
-		"date": "Oct 2015",
-		"tags": ["Illustrator","CorelDraw"]
-	},
+
 ]
