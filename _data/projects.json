@@ -95,6 +95,12 @@
 		"tags": ["Jekyll","image-gallery","JQuery"]
 	},
 	{
+		"name": "Send invitational code as SMS",
+		"image": "SMS.JPG",
+		"date": "Jan 2017",
+		"tags": ["Meteor"]
+	},
+	{
 		"name": "CODEFOLIO",
 		"image": "CODEFOLIO.PNG",
 		"date": "Jan 2017",
@@ -204,6 +210,12 @@
 		"url": "https://jsfiddle.net/Zhivko/eo7L8j1z/1/",
 		"date": "Oct 2016",
 		"tags": ["HTML","CSS","Parallax"]
+	},
+	{
+		"name": "Band-logo",
+		"image": "tmf.jpg",
+		"date": "Oct 2015",
+		"tags": ["Illustrator","CorelDraw"]
 	},
 	{
 		"name": "Codecademy Profile",
