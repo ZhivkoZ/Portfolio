@@ -1,81 +1,88 @@
 [
 	{
-		"name": "Project 1",
+		"name": "Cool project 1",
 		"image": "heroku-front.PNG",
 		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku","API"]
 	},
 	{
-		"name": "Project 1",
+		"name": "Cool project 1",
 		"image": "heroku-search-page.PNG",
 		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku"]
 	},
 	{
-		"name": "Project 1",
+		"name": "Cool project 1",
 		"image": "postDeleted.PNG",
 		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku"]
 	},
 	{
-		"name": "Project 1",
+		"name": "Cool project 1",
+		"image": "gossipchat123PNG.PNG",
+		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
+		"date": "Jan 2017",
+		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku"]
+	},
+	{
+		"name": "Cool project 1",
 		"image": "fa-fa-code.PNG",
 		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","HTML","handlebars"]
 	},
 	{
-		"name": "Project 2",
+		"name": "Cool project 2",
 		"image": "chat-welcome.PNG",
 		"url": "http://thawing-river-37723.herokuapp.com/",
 		"date": "Nov 2015",
 		"tags": ["nodejs","JQuery","ChatIO","Heroku"]
 	},
 	{
-		"name": "Project 2",
+		"name": "Cool project 2",
 		"image": "chat-chat.PNG",
 		"url": "http://thawing-river-37723.herokuapp.com/",
 		"date": "Nov 2015",
 		"tags": ["nodejs","JQuery","ChatIO","Heroku"]
 	},
 	{
-		"name": "Project 3",
+		"name": "Cool project 3",
 		"image": "Calculator.PNG",
 		"date": "Jan 2017",
 		"tags": ["Angular JS","HTML","CSS"]
 	},
 	{
-		"name": "Project 3",
+		"name": "Cool project 3",
 		"image": "Calculator-responsive.PNG",
 		"date": "Jan 2017",
 		"tags": ["Angular JS","HTML","CSS"]
 	},
 	{
-		"name": "Project  4",
+		"name": "Cool project  4",
 		"image": "Computer_Solutions-Simple-Web-site.PNG",
 		"url": "https://plnkr.co/bi8rJ6ri259nO2kDIQyJ",
 		"date": "Jan 2017",
 		"tags": ["Angular JS","HTML","CSS","bootstrap","JSON"]
 	},
 	{
-		"name": "Project  4",
+		"name": "Cool project  4",
 		"image": "services-Simple-Web-site.PNG",
 		"url": "https://plnkr.co/bi8rJ6ri259nO2kDIQyJ",
 		"date": "Jan 2017",
 		"tags": ["Angular JS","HTML","CSS","bootstrap","JSON"]
 	},
 	{
-		"name": "Project  4",
+		"name": "Cool project  4",
 		"image": "jsonfile-Simple-Web-site.PNG",
 		"url": "https://plnkr.co/bi8rJ6ri259nO2kDIQyJ",
 		"date": "Jan 2017",
 		"tags": ["Angular JS","HTML","CSS","bootstrap","JSON"]
 	},
 	{
-		"name": "Project  4",
+		"name": "Cool project  4",
 		"image": "contact-us.PNG",
 		"url": "https://plnkr.co/bi8rJ6ri259nO2kDIQyJ",
 		"date": "Jan 2017",
@@ -89,7 +96,7 @@
 		"tags": ["Jekyll","Liquid","Sass"]
 	},
 	{
-		"name": "Project  6",
+		"name": "Cool project  6",
 		"image": "GalleryJekyll.PNG",
 		"date": "Jan 2017",
 		"tags": ["Jekyll","image-gallery","JQuery"]
@@ -119,87 +126,87 @@
 		"tags": ["Meteor JS","shop","bootstrap"]
 	},
 	{
-		"name": "Project  7",
+		"name": "Cool project  7",
 		"image": "FrontBooks.PNG",
 		"date": "Mar 2015",
 		"tags": ["C#","School-project","HTML","CSS"]
 	},
 	{
-		"name": "Project  7",
+		"name": "Cool project  7",
 		"image": "Games.PNG",
 		"date": "Mar 2015",
 		"tags": ["C#","School-project","HTML","CSS"]
 	},
 	{
-		"name": "Project  8",
+		"name": "Cool project  8",
 		"image": "5shop_krivi-02.jpeg",
 		"date": "Oct 2016",
 		"tags": ["Wordpress","shop"]
 	},
 	{
-		"name": "Project  8",
+		"name": "Cool project  8",
 		"image": "5shop_krivi-03.jpeg",
 		"date": "Oct 2016",
 		"tags": ["Wordpress","shop"]
 	},
 	{
-		"name": "Project 9",
+		"name": "Cool project  9",
 		"image": "wp-gallery.PNG",
 		"date": "Oct 2016",
 		"tags": ["Wordpress"]
 	},
 	{
-		"name": "Project  9",
+		"name": "Cool project  9",
 		"image": "wp-feed-prof.PNG",
 		"date": "Oct 2016",
 		"tags": ["Wordpress"]
 	},
 	{
-		"name": "Project  9",
+		"name": "Cool project  9",
 		"image": "wp-Meet-The-Team.PNG",
 		"date": "Oct 2016",
 		"tags": ["Wordpress"]
 	},
 	{
-		"name": "Project  9",
+		"name": "Cool project  9",
 		"image": "wp-gallery-footer.PNG",
 		"date": "Oct 2016",
 		"tags": ["Wordpress"]
 	},
 	{
-		"name": "Project 10",
+		"name": "Cool project 10",
 		"image": "wp_sdas-blog.JPG",
 		"url": "https://sdasdas.wordpress.com/",
 		"date": "Oct 2016",
 		"tags": ["Wordpress.com"]
 	},
 	{
-		"name": "Project 11",
+		"name": "Cool project 11",
 		"image": "r-design.PNG",
 		"url": "https://plnkr.co/y1n4la9p5voCWI7LDCiP",
 		"date": "Oct 2016",
 		"tags": ["HTML","CSS"]
 	},
 	{
-		"name": "Project  12",
+		"name": "Cool project  12",
 		"image": "DharmaClasses.PNG",
 		"date": "Oct 2016",
 		"tags": ["YogaPage","HTML","CSS","jQuery Slider:)"]
 	},
 	{
-		"name": "Project 12",
+		"name": "Cool project 12",
 		"image": "SS.PNG",
 		"date": "Oct 2016",
 		"tags": ["YogaPage","HTML","CSS","jQuery Slider"]
 	},
 	{
-		"name": "Project 12",
+		"name": "Cool project 12",
 		"image": "DharmaYoga.PNG",
 		"date": "Oct 2016",
 		"tags": ["YogaPage","HTML","CSS","jQuery Slider"]
 	},
 	{
-		"name": "Project 12",
+		"name": "Cool project 12",
 		"image": "DharmaFooter.PNG",
 		"date": "Oct 2016",
 		"tags": ["YogaPage","HTML","CSS"]
