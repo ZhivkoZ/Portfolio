@@ -196,7 +196,7 @@
 		"name": "Cool project 12",
 		"image": "DharmaYoga.PNG",
 		"date": "Oct 2016",
-		"tags": ["YogaPage","HTML","CSS","jQuery Slider"]
+		"tags": ["YogaPage","HTML","CSS"]
 	},
 	{
 		"name": "Cool project 12",
@@ -228,6 +228,7 @@
 		"image": "change-is.PNG",
 	},
 	{
+		"name": "It was a free domain",
 		"image": "Old-but-nocomment.PNG"
 
 	}
