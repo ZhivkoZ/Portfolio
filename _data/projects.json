@@ -83,10 +83,10 @@
 	},
 	{
 		"name": "ZHblog",
-		"image": "ZHblog.PNG",
+		"image": "Git-ZHblog.PNG",
 		"url": "http://zhivkoz.github.io/ZHblog/",
 		"date": "Jan 2017",
-		"tags": ["Jekyll","Liquid","Sass"]
+		"tags": ["Jekyll","git","Sass"]
 	},
 	{
 		"name": "Cool project  6",
