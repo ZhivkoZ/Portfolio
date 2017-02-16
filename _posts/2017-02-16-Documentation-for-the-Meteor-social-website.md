@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Documentation of the Meteor social website"
+title:  "Documentation for the Meteor social website"
 date:   2017-02-16 13:50:39
 categories: others
 ---
@@ -8,7 +8,7 @@ categories: others
 A Meteor social-network that I practiced on, and found that is very suitable for that role: and this is how it looked when I started: <a href= "https://zhivkoz.github.io/Portfolio/static/projects/Old-but-nocomment.PNG">PREPARE tab</a>.. was such a long time ago( almost 2years).., and now it looks like this:
 <a href="https://zhivkoz.github.io/Portfolio/static/projects/change-is.PNG">new tab.</a>
 
-Documentation of the website:
+Documentation for the website:
 It has features like a blog website where one can easily register with only a username and password, a user can - Post posts into the main front page, a Post cannot be empty or longer then 5000 characters, each user can delete his own posts, and each post can be liked once by every other user but cannot be liked by the author of the post, the most liked post goes into the header of the website under the logo, as a greeting message of the website or so. Each Posted Post has the username and the user's profile picture, and the time when it has been posted. Every user can upload 1 profile picture jpg, png or a gif file directly into the database as their profile picture. Every user of the so called social network can follow other users, and they are being listed on ones own front(main) page, and if one clicks on the followed user, that user's posts will be filtered and showed on the front(main) page. The main page is designed to be an infinite scroll with no restrictions. The website also has a Search Page where one can see all the users that has been registered or can search for a username and can follow them. The website also has a chat for everyone where the chat is limited to 200 Post-like messages and the other are being hidden, the chat shows a timestamp of the messages and the users profile picture.  
 
 
