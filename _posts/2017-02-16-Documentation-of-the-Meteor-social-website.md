@@ -19,32 +19,31 @@ Also it is on a Heroku hosting: <a href="http://enigmatic-lowlands-70396.herokua
 
 Meteor packages used:
 
+    meteor-base@1.0.4             # Packages every Meteor app needs to have
+    mobile-experience@1.0.4       # Packages for a great mobile UX
+    mongo@1.1.14                   # The database Meteor supports right now
+    blaze-html-templates@1.0.4    # Compile .html files into Meteor Blaze views
+    reactive-var@1.0.11            # Reactive variable for tracker
+    jquery@1.11.10                  # Helpful client-side library
+    tracker@1.1.1                 # Meteor's client-side reactive programming library
 
-meteor-base@1.0.4             # Packages every Meteor app needs to have
-mobile-experience@1.0.4       # Packages for a great mobile UX
-mongo@1.1.14                   # The database Meteor supports right now
-blaze-html-templates@1.0.4    # Compile .html files into Meteor Blaze views
-reactive-var@1.0.11            # Reactive variable for tracker
-jquery@1.11.10                  # Helpful client-side library
-tracker@1.1.1                 # Meteor's client-side reactive programming library
+    standard-minifier-css@1.3.2   # CSS minifier run for production mode
+    standard-minifier-js@1.2.1    # JS minifier run for production mode
+    es5-shim@4.6.15                # ECMAScript 5 compatibility for older browsers.
+    ecmascript@0.5.9              # Enable ECMAScript2015+ syntax in app code
+    shell-server@0.2.1            # Server-side component of the `meteor shell` command
 
-standard-minifier-css@1.3.2   # CSS minifier run for production mode
-standard-minifier-js@1.2.1    # JS minifier run for production mode
-es5-shim@4.6.15                # ECMAScript 5 compatibility for older browsers.
-ecmascript@0.5.9              # Enable ECMAScript2015+ syntax in app code
-shell-server@0.2.1            # Server-side component of the `meteor shell` command
-
-accounts-ui@1.1.9
-accounts-password@1.3.2
-session@1.1.7
-iron:router
-npm-bcrypt@0.9.2
-mrt:moment-timezone
-themeteorchef:bert
-msavin:mongol
-meteortoys:toggle
-cfs:standard-packages
-cfs:gridfs
-easy:search
-easysearch:elasticsearch
-easysearch:autosuggest
+    accounts-ui@1.1.9
+    accounts-password@1.3.2
+    session@1.1.7
+    iron:router
+    npm-bcrypt@0.9.2
+    mrt:moment-timezone
+    themeteorchef:bert
+    msavin:mongol
+    meteortoys:toggle
+    cfs:standard-packages
+    cfs:gridfs
+    easy:search
+    easysearch:elasticsearch
+    easysearch:autosuggest
