@@ -212,10 +212,22 @@
 		"tags": ["HTML","CSS","Parallax"]
 	},
 	{
+		"name": "Website design",
+		"image": "Ves-illustratoro.PNG",
+		"date": "Oct 2015",
+		"tags": ["Illustrator"]
+	},
+	{
 		"name": "Band-logo",
 		"image": "tmf.PNG",
 		"date": "Oct 2015",
 		"tags": ["Illustrator","CorelDraw"]
+	},
+	{
+		"name": "Logo",
+		"image": "Gossip-Capture.PNG",
+		"date": "Feb 2017",
+		"tags": ["Inkscape"]
 	},
 	{
 		"name": "Codecademy Profile",
