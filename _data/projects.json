@@ -102,7 +102,7 @@
 		"tags": ["Jekyll","image-gallery","JQuery"]
 	},
 	{
-		"name": "Send invitational code as SMS",
+		"name": "Meteor-package SMS",
 		"image": "SMS.PNG",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS"]
