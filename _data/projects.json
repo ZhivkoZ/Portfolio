@@ -38,14 +38,14 @@
 		"name": "Cool project 2",
 		"image": "chat-welcome.PNG",
 		"url": "http://thawing-river-37723.herokuapp.com/",
-		"date": "Nov 2015",
+		"date": "Nov 2016",
 		"tags": ["nodejs","JQuery","ChatIO","Heroku"]
 	},
 	{
 		"name": "Cool project 2",
 		"image": "chat-chat.PNG",
 		"url": "http://thawing-river-37723.herokuapp.com/",
-		"date": "Nov 2015",
+		"date": "Nov 2016",
 		"tags": ["nodejs","JQuery","ChatIO","Heroku"]
 	},
 	{
@@ -87,6 +87,13 @@
 		"url": "http://zhivkoz.github.io/ZHblog/",
 		"date": "Jan 2017",
 		"tags": ["Jekyll","git","Sass"]
+	},
+	{
+		"name": "ng-material",
+		"image": "ng-material.PNG",
+		"url": "https://codepen.io/Zhivko/project/full/AYyGYA/",
+		"date": "Jan 2017",
+		"tags": ["Angual JS","frontend","Material-design"]
 	},
 	{
 		"name": "Cool project  6",
