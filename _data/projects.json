@@ -78,7 +78,7 @@
 		"tags": ["AngularJS","HTML","CSS","bootstrap","JSON"]
 	},
 	{
-		"name": "REST DegreeConverter",
+		"name": "RESTful DegreeConverter",
 		"image": "REST-API.PNG",
 		"url": "https://github.com/ZhivkoZ/DegreeConverter",
 		"date": "Apr 2017",
@@ -194,7 +194,7 @@
 		"name": "Cool project  12",
 		"image": "DharmaClasses.PNG",
 		"date": "Oct 2016",
-		"tags": ["YogaPage","HTML","CSS","jQuery Slider:)"]
+		"tags": ["YogaPage","HTML","CSS"]
 	},
 	{
 		"name": "Cool project 12",
@@ -250,7 +250,7 @@
 		"image": "change-is.PNG",
 	},
 	{
-		"name": "It was a free domain name",
+		"name": "Was a free domain name",
 		"image": "Old-but-nocomment.PNG"
 
 	}
