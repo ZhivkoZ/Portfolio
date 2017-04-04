@@ -2,28 +2,24 @@
 	{
 		"name": "Cool project 1",
 		"image": "heroku-front.PNG",
-		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku","API"]
 	},
 	{
 		"name": "Cool project 1",
 		"image": "heroku-search-page.PNG",
-		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku"]
 	},
 	{
 		"name": "Cool project 1",
 		"image": "postDeleted.PNG",
-		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku"]
 	},
 	{
 		"name": "Cool project 1",
 		"image": "gossipchat123PNG.PNG",
-		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","Responsive"]
 	},
@@ -82,7 +78,14 @@
 		"tags": ["AngularJS","HTML","CSS","bootstrap","JSON"]
 	},
 	{
-		"name": "ng-material",
+		"name": "REST DegreeConverter",
+		"image": "REST-API.PNG",
+		"url": "https://github.com/ZhivkoZ/DegreeConverter",
+		"date": "Apr 2017",
+		"tags": ["nodejs","Express","AngularJS"]
+	},
+	{
+		"name": "md-material",
 		"image": "ng-material.PNG",
 		"url": "https://codepen.io/Zhivko/project/full/AYyGYA/",
 		"date": "Mar 2017",
@@ -90,7 +93,7 @@
 	},
 	{
 		"name": "ZHblog",
-		"image": "Git-ZHblog.PNG",
+		"image": "ZHblog.PNG",
 		"url": "http://zhivkoz.github.io/ZHblog/",
 		"date": "Jan 2017",
 		"tags": ["Jekyll","git","Sass"]
