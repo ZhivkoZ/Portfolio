@@ -21,7 +21,7 @@
 		"name": "Cool project 1",
 		"image": "gossipchat123PNG.PNG",
 		"date": "Jan 2017",
-		"tags": ["Meteor JS","Responsive"]
+		"tags": ["Meteor JS","Chat","Responsive"]
 	},
 	{
 		"name": "Cool project 1",
@@ -51,10 +51,11 @@
 		"tags": ["AngularJS","HTML","CSS"]
 	},
 	{
-		"name": "Cool project 3",
-		"image": "Calculator-responsive.PNG",
-		"date": "Jan 2017",
-		"tags": ["AngularJS","HTML","CSS"]
+		"name": "RESTful DegreeConverter",
+		"image": "REST-API.PNG",
+		"url": "https://github.com/ZhivkoZ/DegreeConverter",
+		"date": "Apr 2017",
+		"tags": ["nodejs","Express","AngularJS"]
 	},
 	{
 		"name": "Cool project  4",
@@ -76,13 +77,6 @@
 		"url": "https://plnkr.co/bi8rJ6ri259nO2kDIQyJ",
 		"date": "Jan 2017",
 		"tags": ["AngularJS","HTML","CSS","bootstrap","JSON"]
-	},
-	{
-		"name": "RESTful DegreeConverter",
-		"image": "REST-API.PNG",
-		"url": "https://github.com/ZhivkoZ/DegreeConverter",
-		"date": "Apr 2017",
-		"tags": ["nodejs","Express","AngularJS"]
 	},
 	{
 		"name": "md-material",
