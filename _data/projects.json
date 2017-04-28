@@ -35,21 +35,21 @@
 		"image": "REST-API.PNG",
 		"url": "https://github.com/ZhivkoZ/DegreeConverter",
 		"date": "Apr 2017",
-		"tags": ["nodejs","Express","AngularJS"]
+		"tags": ["nodejs","Express","AngularJS","API"]
 	},
 	{
 		"name": "Cool project 2",
 		"image": "chat-welcome.PNG",
 		"url": "http://thawing-river-37723.herokuapp.com/",
 		"date": "Nov 2016",
-		"tags": ["nodejs","SocketIO","JQuery","Heroku"]
+		"tags": ["nodejs","SocketIO","JQuery"]
 	},
 	{
 		"name": "Cool project 2",
 		"image": "chat-chat.PNG",
 		"url": "http://thawing-river-37723.herokuapp.com/",
 		"date": "Nov 2016",
-		"tags": ["nodejs","SocketIO","JQuery","Heroku"]
+		"tags": ["nodejs","SocketIO","JQuery"]
 	},
 	{
 		"name": "Cool project 3",
