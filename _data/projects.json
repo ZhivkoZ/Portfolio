@@ -31,31 +31,31 @@
 		"tags": ["Meteor JS","HTML","handlebars"]
 	},
 	{
+		"name": "RESTful DegreeConverter",
+		"image": "REST-API.PNG",
+		"url": "https://github.com/ZhivkoZ/DegreeConverter",
+		"date": "Apr 2017",
+		"tags": ["nodejs","Express","AngularJS"]
+	},
+	{
 		"name": "Cool project 2",
 		"image": "chat-welcome.PNG",
 		"url": "http://thawing-river-37723.herokuapp.com/",
 		"date": "Nov 2016",
-		"tags": ["nodejs","JQuery","ChatIO","Heroku"]
+		"tags": ["nodejs","SocketIO","JQuery","Heroku"]
 	},
 	{
 		"name": "Cool project 2",
 		"image": "chat-chat.PNG",
 		"url": "http://thawing-river-37723.herokuapp.com/",
 		"date": "Nov 2016",
-		"tags": ["nodejs","JQuery","ChatIO","Heroku"]
+		"tags": ["nodejs","SocketIO","JQuery","Heroku"]
 	},
 	{
 		"name": "Cool project 3",
 		"image": "Calculator.PNG",
 		"date": "Jan 2017",
 		"tags": ["AngularJS","HTML","CSS"]
-	},
-	{
-		"name": "RESTful DegreeConverter",
-		"image": "REST-API.PNG",
-		"url": "https://github.com/ZhivkoZ/DegreeConverter",
-		"date": "Apr 2017",
-		"tags": ["nodejs","Express","AngularJS"]
 	},
 	{
 		"name": "Cool project  4",
