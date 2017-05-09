@@ -1,5 +1,26 @@
 [
 	{
+		"name": "Elma-Schedule Site",
+		"image": "elma.PNG",
+		"url": "http://elma2017-program.com",
+		"date": "May 2017",
+		"tags": ["WebMaster"]
+	},
+	{
+		"name": "Elma-Schedule Site",
+		"image": "snother.PNG",
+		"url": "http://elma2017-program.com",
+		"date": "May 2017",
+		"tags": ["HTML","CSS","Ruby"]
+	},
+	{
+		"name": "Elma-Schedule Site",
+		"image": "picture.PNG",
+		"url": "http://elma2017-program.com",
+		"date": "May 2017",
+		"tags": ["WebMaster"]
+	},
+	{
 		"name": "Cool project 1",
 		"image": "heroku-front.PNG",
 		"date": "Jan 2017",
@@ -79,7 +100,7 @@
 		"tags": ["AngularJS","HTML","CSS","bootstrap","JSON"]
 	},
 	{
-		"name": "md-material",
+		"name": "md-material-practice",
 		"image": "ng-material.PNG",
 		"url": "https://codepen.io/Zhivko/project/full/AYyGYA/",
 		"date": "Mar 2017",
@@ -185,6 +206,12 @@
 		"tags": ["HTML","CSS"]
 	},
 	{
+		"name": "Control Screen",
+		"image": "control-screen.PNG",
+		"date": "May 2017",
+		"tags": ["HTML","CSS","Responsive"]
+	},
+	{
 		"name": "Cool project  12",
 		"image": "DharmaClasses.PNG",
 		"date": "Oct 2016",
@@ -209,11 +236,17 @@
 		"tags": ["YogaPage","HTML","CSS"]
 	},
 	{
-		"name": "Code snippet",
+		"name": "Code snippet_Parallax",
 		"image": "parallax-scroll.PNG",
 		"url": "https://jsfiddle.net/Zhivko/eo7L8j1z/1/",
 		"date": "Oct 2016",
 		"tags": ["HTML","CSS","Parallax"]
+	},
+	{
+		"name": "Calculator",
+		"image": "calculator-teleric.PNG",
+		"date": "Oct 2015",
+		"tags": ["Teleric","HTML"]
 	},
 	{
 		"name": "Website design",
