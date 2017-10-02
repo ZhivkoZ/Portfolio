@@ -153,10 +153,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 .menu .list-group-item-heading, .menu .list-group-item-text{
     color:#fff!important;
     font-size: 120%;
+    font-style: bold;
 }
 @media (max-width: 768px) {
     #portfolio-filter {
-        margin-top: 0px;
+        display: none;
     }
 }
 footer {
