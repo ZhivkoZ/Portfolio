@@ -2,7 +2,7 @@
 	{
 		"name": "RESTful DegreeConverter",
 		"image": "REST-API.PNG",
-		"url": "http://github.com/zhelevz/DegreeConverter",
+		"url": "https://github.com/ZhivkoZ/DegreeConverter",
 		"date": "Apr 2017",
 		"tags": ["nodejs","Express","AngularJS","API"]
 	},
@@ -41,7 +41,7 @@
 		"name": "Cool project 1",
 		"image": "heroku-front.PNG",
 		"date": "Jan 2017",
-		"tags": ["Meteor JS","Custom"]
+		"tags": ["Meteor JS","Custom","DEPRECATED"]
 	},
 	{
 		"name": "Cool project 1",
@@ -58,6 +58,7 @@
 	{
 		"name": "Cool project 1",
 		"image": "gossipchat123PNG.PNG",
+		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","Chat","Responsive"]
 	},
@@ -90,7 +91,7 @@
 	{
 		"name": "Cool project  4",
 		"image": "Computer_Solutions-Simple-Web-site.PNG",
-		"url": "http://plnkr.co/bi8rJ6ri259nO2kDIQyJ",
+		"url": "https://plnkr.co/bi8rJ6ri259nO2kDIQyJ",
 		"date": "Jan 2017",
 		"tags": ["AngularJS","JSON"]
 	},
@@ -110,14 +111,14 @@
 	{
 		"name": "md-material-practice",
 		"image": "ng-material.PNG",
-		"url": "http://codepen.io/Zhivko/project/full/AYyGYA/",
+		"url": "https://codepen.io/Zhivko/project/full/AYyGYA/",
 		"date": "Mar 2017",
 		"tags": ["AngularJS","Frontend","Another Material"]
 	},
 	{
 		"name": "Zzz ZHblog",
 		"image": "ZHblog.PNG",
-		"url": "http://zhelevz.github.io/ZHblog/",
+		"url": "http://zhivkoz.github.io/ZHblog/",
 		"date": "Jan 2017",
 		"tags": ["Jekyll"]
 	},
@@ -125,7 +126,7 @@
 		"name": "Cool project  6",
 		"image": "GalleryJekyll.PNG",
 		"date": "Jan 2017",
-		"tags": ["image-gallery","JQuery"]
+		"tags": ["Jekyll","image-gallery","JQuery"]
 	},
 	{
 		"name": "Meteor-package SMS",
@@ -196,14 +197,14 @@
 	{
 		"name": "Cool project 10",
 		"image": "wp_sdas-blog.JPG",
-		"url": "http://sdasdas.wordpress.com/",
+		"url": "https://sdasdas.wordpress.com/",
 		"date": "Oct 2016",
 		"tags": ["Wordpress.com"]
 	},
 	{
 		"name": "Cool project 11",
 		"image": "r-design.PNG",
-		"url": "http://plnkr.co/y1n4la9p5voCWI7LDCiP",
+		"url": "https://plnkr.co/y1n4la9p5voCWI7LDCiP",
 		"date": "Oct 2016",
 		"tags": ["HTML","CSS"]
 	},
@@ -246,7 +247,7 @@
 	{
 		"name": "Code snippet_Parallax",
 		"image": "parallax-scroll.PNG",
-		"url": "http://jsfiddle.net/Zhivko/eo7L8j1z/1/",
+		"url": "https://jsfiddle.net/Zhivko/eo7L8j1z/1/",
 		"date": "Oct 2016",
 		"tags": ["HTML","CSS","Parallax"]
 	},
@@ -267,7 +268,7 @@
 		"name": "TomorrowMayFall-Design-Band-logo",
 		"image": "tmf2.PNG",
 		"date": "Oct 2015",
-		"url": "http://www.youtube.com/watch?v=vJ6XRmPzLks",
+		"url": "https://www.youtube.com/watch?v=vJ6XRmPzLks",
 		"tags": ["Adobe AfterEffects","Sue-them-when-they-become-famous", "check-out-their-video","VectorLogo"]
 	},
 	{
@@ -279,14 +280,14 @@
 		{
 			"name": "Linux for DevOps - june 2017 - Certificate",
 			"image": "linux for devops - june 2017 - certificate.jpeg",
-			"url": "http://softuni.bg/certificates/details/22230/314293a7",
+			"url": "https://softuni.bg/certificates/details/22230/314293a7",
 			"date": "Jul 2017",
 			"tags": ["SoftUni","Jenkins","Docker","Nagios","Linux","Vagrant"]
 		},
 	{
 		"name": "Codecademy Profile",
 		"image": "codecademy.PNG",
-		"url": "http://www.codecademy.com/zhivko73656",
+		"url": "https://www.codecademy.com/zhivko73656",
 		"date": "Oct 2016",
 		"tags": ["JavaScript","PHP","codecademy"]
 	},
