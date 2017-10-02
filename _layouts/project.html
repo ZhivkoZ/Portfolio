@@ -33,11 +33,11 @@ layout: default
     				<a href="{{ i.url }}" class="btn btn-info btn-raised btn-sm project-link">View</a>
     				{% endif %}
     				<span class="project-timeline">{{ i.date }}</span>
-            {% include project_tags.html %}
     			</div>
     		</div>
     	</div>
         </div>
+                    {% include project_tags.html %}
     {% endfor %}
     </div>
   </div>
