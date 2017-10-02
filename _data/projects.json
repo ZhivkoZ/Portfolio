@@ -118,7 +118,7 @@
 	{
 		"name": "Zzz ZHblog",
 		"image": "ZHblog.PNG",
-		"url": "http://zhivkoz.github.io/ZHblog/",
+		"url": "http://zhelevz.github.io/ZHblog/",
 		"date": "Jan 2017",
 		"tags": ["Jekyll"]
 	},
@@ -259,13 +259,13 @@
 		"tags": ["Illustrator"]
 	},
 	{
-		"name": "TomorrowMayFall-Design-Band-logo",
+		"name": "TomorrowMayFall-Design-logo",
 		"image": "tmf.PNG",
 		"date": "Oct 2015",
 		"tags": ["CorelDraw","MY-Custom-design"]
 	},
 	{
-		"name": "TomorrowMayFall-Design-Band-logo",
+		"name": "TomorrowMayFall-Design-My-logo",
 		"image": "tmf2.PNG",
 		"date": "Oct 2015",
 		"url": "https://www.youtube.com/watch?v=vJ6XRmPzLks",
@@ -281,7 +281,7 @@
 			"name": "Linux for DevOps - june 2017 - Certificate",
 			"image": "linux for devops - june 2017 - certificate.jpeg",
 			"url": "https://softuni.bg/certificates/details/22230/314293a7",
-			"date": "Jul 2017",
+			"date": "Jun 2017",
 			"tags": ["SoftUni","Jenkins","Docker","Nagios","Linux","Vagrant"]
 		},
 	{
