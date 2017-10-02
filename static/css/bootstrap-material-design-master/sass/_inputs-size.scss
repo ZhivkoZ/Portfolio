@@ -33,7 +33,7 @@ output {
 // In Mobile Safari, setting `display: block` on temporal inputs causes the
 // text within the input to become vertically misaligned. As a workaround, we
 // set a pixel line-height that matches the given height of the input, but only
-// for Safari. See https://bugs.webkit.org/show_bug.cgi?id=139848
+// for Safari. See http://bugs.webkit.org/show_bug.cgi?id=139848
 //
 // Note that as of 8.3, iOS doesn't support `datetime` or `week`.
 
@@ -117,7 +117,7 @@ output {
 // height and font-size of form controls.
 //
 // The `.form-group-* form-control` variations are sadly duplicated to avoid the
-// issue documented in https://github.com/twbs/bootstrap/issues/15074.
+// issue documented in http://github.com/twbs/bootstrap/issues/15074.
 .input-sm {
   @include input-size(unquote(".input-sm"), $mdb-input-height-small, $mdb-input-padding-small-vertical, $mdb-input-padding-small-horizontal, $mdb-input-font-size-small, $mdb-input-line-height-small, $mdb-input-border-radius-small);
 }

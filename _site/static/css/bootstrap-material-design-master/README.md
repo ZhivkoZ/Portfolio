@@ -1,13 +1,13 @@
 [![banner](demo/imgs/banner.jpg)](#)
 
-[![build status](https://travis-ci.org/FezVrasta/bootstrap-material-design.svg?branch=master)](https://travis-ci.org/FezVrasta/bootstrap-material-design)
-[![gratipay](https://img.shields.io/gratipay/FezVrasta.svg)](https://gratipay.com/FezVrasta)
-[![Bower version](https://badge.fury.io/bo/bootstrap-material-design.svg)](https://github.com/FezVrasta/bootstrap-material-design)
+[![build status](http://travis-ci.org/FezVrasta/bootstrap-material-design.svg?branch=master)](http://travis-ci.org/FezVrasta/bootstrap-material-design)
+[![gratipay](http://img.shields.io/gratipay/FezVrasta.svg)](http://gratipay.com/FezVrasta)
+[![Bower version](http://badge.fury.io/bo/bootstrap-material-design.svg)](http://github.com/FezVrasta/bootstrap-material-design)
 
 
 
 ## About
-Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new [Material Design guidelines by Google](https://material.google.com/) in your Bootstrap 3 based application.
+Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new [Material Design guidelines by Google](http://material.google.com/) in your Bootstrap 3 based application.
 Just include the theme, after the Bootstrap CSS and include the JavaScript at the end of your document (just before the `</body>` tag), and everything will be converted to Material Design (Paper) style.
 
 **NOTE**: This V3 compatible theme is still in development, it could be used on production websites but I can't guarantee compatibility with previous versions.
@@ -15,7 +15,7 @@ Just include the theme, after the Bootstrap CSS and include the JavaScript at th
 Check out [the demo at this link](http://fezvrasta.github.io/bootstrap-material-design/).
 
 ## V4 Development
-The next major Bootstrap V4 compatible release of bootstrap-material-design is [in development](https://github.com/FezVrasta/bootstrap-material-design/tree/v4-dev).  Check out the [documentation](http://rosskevin.github.io/bootstrap-material-design/migration/) (temporary site url) for migration, getting started, development, and examples.  It has some requested implementations and more to come over V3.  There are a lot of great changes in V4, but be warned, both Bootstrap V4 and our own implementation is changing daily.  If you want to get involved, please do so by submitting pull requests.  Before undertaking any major PR effort, please check the [milestone](https://github.com/FezVrasta/bootstrap-material-design/milestones/V4) for an existing issue.  If there isn't one, please file a new issue and `cc: @rosskevin` so we can discuss and assign the work so effort is not duplicated.  Thank you!
+The next major Bootstrap V4 compatible release of bootstrap-material-design is [in development](http://github.com/FezVrasta/bootstrap-material-design/tree/v4-dev).  Check out the [documentation](http://rosskevin.github.io/bootstrap-material-design/migration/) (temporary site url) for migration, getting started, development, and examples.  It has some requested implementations and more to come over V3.  There are a lot of great changes in V4, but be warned, both Bootstrap V4 and our own implementation is changing daily.  If you want to get involved, please do so by submitting pull requests.  Before undertaking any major PR effort, please check the [milestone](http://github.com/FezVrasta/bootstrap-material-design/milestones/V4) for an existing issue.  If there isn't one, please file a new issue and `cc: @rosskevin` so we can discuss and assign the work so effort is not duplicated.  Thank you!
 
 Please prefix any issue or pull request title with `V4`.
 
@@ -36,7 +36,7 @@ You may install this theme using NPM or Bower:
 
 If you prefer, you can include this framework in your project using our official CDN:
 
-- [Bootstrap Material Design on CDNJS.com](https://cdnjs.com/libraries/bootstrap-material-design)
+- [Bootstrap Material Design on CDNJS.com](http://cdnjs.com/libraries/bootstrap-material-design)
 - [Bootstrap Material Design on JSDelivr.com](http://www.jsdelivr.com/#!bootstrap.material-design)
 
 
@@ -60,10 +60,10 @@ Add the necessary links to your `<head>` element for fonts and stylsheets:
 
 Many use bower including compiling source for this project.  Here are a couple of things to know:
 
-  1. When using SASS, `@import` directives cannot be interpolated.  Given the variety of configurations, the typical `bower_components` directory is occasionally in a different location.  Given the options, a `loadPath` was [added to the SASS compiler](https://github.com/FezVrasta/bootstrap-material-design/pull/762/files)
+  1. When using SASS, `@import` directives cannot be interpolated.  Given the variety of configurations, the typical `bower_components` directory is occasionally in a different location.  Given the options, a `loadPath` was [added to the SASS compiler](http://github.com/FezVrasta/bootstrap-material-design/pull/762/files)
      so that bootstrap files could be loaded without specifying the path to the `bower_components` directory.  You may similarly need to add a load path to your compiler.  It is still debatable if this is for the greater good, but seems like the only
      way to accommodate multiple configurations.
-  2. This project will install both `bootstrap` and `bootstrap-sass` in `bower_components`.  Each is used for the LESS and SASS version compilation respectively.   If you are only using one, feel free to [ignore the other bower dependency](https://stackoverflow.com/a/27791606/2363935).
+  2. This project will install both `bootstrap` and `bootstrap-sass` in `bower_components`.  Each is used for the LESS and SASS version compilation respectively.   If you are only using one, feel free to [ignore the other bower dependency](http://stackoverflow.com/a/27791606/2363935).
 
 ## Support and Contributions
 
@@ -71,8 +71,8 @@ All issues filed should be reduced to a [CodePen](http://codepen.io/rosskevin/pe
 
 If you like this project you may support it by donating via Gittip, starring this repository or reporting issues.
 
-[![gittip](demo/imgs/gittip-button.jpg)](https://www.gratipay.com/FezVrasta/)
-[![issues](demo/imgs/issues-button.jpg)](https://github.com/FezVrasta/bootstrap-material-design/issues)
+[![gittip](demo/imgs/gittip-button.jpg)](http://www.gratipay.com/FezVrasta/)
+[![issues](demo/imgs/issues-button.jpg)](http://github.com/FezVrasta/bootstrap-material-design/issues)
 
 
 ## Development
@@ -95,7 +95,7 @@ The upcoming 4.x compatible version is being actively developed using SASS on th
 
 ## Documentation
 
-Material Design ([spec](https://material.google.com/)) for Bootstrap provides 
+Material Design ([spec](http://material.google.com/)) for Bootstrap provides 
 styles for bootstrap based markup to comply with Material Design concepts.
 
 
@@ -215,7 +215,7 @@ Radio example:
 ### Icons
 
 Bootstrap Material Design supports the full range of original Material Design icons!
-[See the full set of material design icons at the material icons library.](https://www.google.com/design/icons/)
+[See the full set of material design icons at the material icons library.](http://www.google.com/design/icons/)
 
 It’s easy to incorporate icons into your web page. [Here’s an example](http://fezvrasta.github.io/bootstrap-material-design/bootstrap-elements.html#icon): 
 ```
@@ -303,7 +303,7 @@ $.material.options = {
 
 ### Arrive.js support
 
-If you need to dynamically add elements to your DOM then you may need to include [`Arrive.js`](https://github.com/uzairfarooq/arrive) before `Material.js`. This will automatically apply `material.js` to every new element added via JavaScript.
+If you need to dynamically add elements to your DOM then you may need to include [`Arrive.js`](http://github.com/uzairfarooq/arrive) before `Material.js`. This will automatically apply `material.js` to every new element added via JavaScript.
 
 ## Plugins
 
@@ -311,7 +311,7 @@ Material Design for Bootstrap comes with styling support for various external sc
 
 ### SnackbarJS
 
-Create snackbars and toasts with the [SnackbarJS plugin](https://github.com/FezVrasta/snackbarjs). The default toast style is the squared one (snackbar style). If you like to use the rounded style (toast style), please add the `toast` class to the `style` option of SnackbarJS.
+Create snackbars and toasts with the [SnackbarJS plugin](http://github.com/FezVrasta/snackbarjs). The default toast style is the squared one (snackbar style). If you like to use the rounded style (toast style), please add the `toast` class to the `style` option of SnackbarJS.
 
 ### RipplesJS
 
@@ -332,7 +332,7 @@ Read more about [noUiSlider here](http://refreshless.com/nouislider/).
 ### Dropdown.js
 
 Finally a dropdown plugin that transforms select inputs in nice dropdowns and does not drive you crazy.
-Read more about [Dropdown.js here](https://github.com/FezVrasta/dropdown.js).
+Read more about [Dropdown.js here](http://github.com/FezVrasta/dropdown.js).
 
 ### Selectize.js
 
@@ -342,7 +342,7 @@ Read more about [selectize.js](http://brianreavis.github.io/selectize.js/).
 ### Bootstrap Material Datepicker
 
 A Material Design datepicker created to be used with Material Design for Bootstrap.  
-Read more about [Bootstrap Material Datepicker](https://github.com/T00rk/bootstrap-material-datepicker)
+Read more about [Bootstrap Material Datepicker](http://github.com/T00rk/bootstrap-material-datepicker)
 
 ## Compatibility
 

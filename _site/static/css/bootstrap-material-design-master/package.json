@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FezVrasta/bootstrap-material-design.git"
+    "url": "http://github.com/FezVrasta/bootstrap-material-design.git"
   },
   "author": "Federico Zivolo",
   "bugs": {
-    "url": "https://github.com/FezVrasta/bootstrap-material-design/issues"
+    "url": "http://github.com/FezVrasta/bootstrap-material-design/issues"
   },
   "license": "MIT",
   "keywords": [
@@ -25,7 +25,7 @@
     "browser",
     "framework"
   ],
-  "homepage": "https://github.com/FezVrasta/bootstrap-material-design",
+  "homepage": "http://github.com/FezVrasta/bootstrap-material-design",
   "dependencies": {
     "bootstrap": ">=3.0",
     "jquery": ">=1.9.1"

@@ -74,41 +74,41 @@ module.exports = function (grunt) {
           replacements: [
 
             // convert bootstrap imports
-            { // https://regex101.com/r/bM6cP0/2
+            { // http://regex101.com/r/bM6cP0/2
               pattern: /bower_components\/(bootstrap\/less\/)/gi,
               replacement: "bower_components\/bootstrap-sass\/assets\/stylesheets\/bootstrap\/",
               order: 2
             },
 
             // convert conditional when not
-            { // https://regex101.com/r/cX6uF4/1
+            { // http://regex101.com/r/cX6uF4/1
               pattern: /& when not \(isstring\(\$parent\)\)/gi,
               replacement: "@if not $parent",
               order: 2
             },
 
             // convert conditional when
-            { // https://regex101.com/r/gH0jP0/2
+            { // http://regex101.com/r/gH0jP0/2
               pattern: /& when \(isstring\(\$parent\)\)/gi,
               replacement: "@else",
               order: 2
             },
 
             // convert conditional when
-            { // https://regex101.com/r/dL1lI8/2
+            { // http://regex101.com/r/dL1lI8/2
               pattern: /& when /gi,
               replacement: "@if ",
               order: 2
             },
 
             // convert all shadow mixins
-            { // https://regex101.com/r/sJ2lH4/1
+            { // http://regex101.com/r/sJ2lH4/1
               pattern: /.shadow-z-(\d+)((?:-hover)?) {/gi,
               replacement: "@mixin shadow-z-$1$2 {",
               order: 2
             },
             // bad conversions of .shadow-z-*
-            { // https://regex101.com/r/pV0yB0/3
+            { // http://regex101.com/r/pV0yB0/3
               pattern: /\.shadow-z-(\d+)((?:-hover)?)(?:\(\))?;/gi,
               replacement: "@include shadow-z-$1$2;",
               order: 2
@@ -122,77 +122,77 @@ module.exports = function (grunt) {
             },
 
             // hack - (no conditional replacements)
-            { // https://regex101.com/r/pV0yB0/2
+            { // http://regex101.com/r/pV0yB0/2
               pattern: /@extend @extend/gi,
               replacement: "@extend",
               order: 10
             },
 
             // button variations mixin replacement(s)
-            { // https://regex101.com/r/qD9qB8/4
+            { // http://regex101.com/r/qD9qB8/4
               pattern: /.generic-variations\(unquote\(".btn", ~("([^"]+)?")\), (\$[\s\S]+?(?!\r|\n)), {$\n[\s\S]+}\);$\n/mg,
               replacement: "@include button-variations(unquote(\".btn\"), $1, $3);\n",
               order: 20
             },
 
             //// background-color generic-variations
-            //{ // Multi-line replacement - https://regex101.com/r/cW6pH8/2
+            //{ // Multi-line replacement - http://regex101.com/r/cW6pH8/2
             //  pattern: /.generic-variations\(unquote\(("[^"]+")\), (\$[\s\S]+?(?!\r|\n)), {$\n[\s\S]+?(?!\r|\n)background-color[\s\S]+?(?!\r|\n)(\(\d+\/\d+\))[\s\S]+?(?!\r|\n)}\);$\n/mg,
             //  replacement: "@include bg-color-variations(unquote($1), $2, $3);\n",
             //  order: 21
             //},
 
             //// bg-box-shadow generic-variations
-            //{ // Multi-line replacement - https://regex101.com/r/jW8kR1/1
+            //{ // Multi-line replacement - http://regex101.com/r/jW8kR1/1
             //  pattern: /.generic-variations\(unquote\(("[^"]+")\), (\$[\s\S]+?(?!\r|\n)), {$\n[\s\S]+?(?!\r|\n)box-shadow[\s\S]+?(?!\r|\n)[\s\S]+?(?!\r|\n)}\);$\n/mg,
             //  replacement: "@include bg-box-shadow-variations(unquote($1), $2);\n",
             //  order: 22
             //},
 
             //// bg-img generic-variations
-            //{ // Multi-line replacement - https://regex101.com/r/aP2hH2/1
+            //{ // Multi-line replacement - http://regex101.com/r/aP2hH2/1
             //  pattern: /.generic-variations\(unquote\(("[^"]+")\), (\$[\s\S]+?(?!\r|\n)), {$\n[\s\S]+?(?!\r|\n)background-image[\s\S]+?(?!\r|\n)[\s\S]+?(?!\r|\n)}\);$\n/mg,
             //  replacement: "@include bg-img-variations(unquote($1), $2);\n",
             //  order: 23
             //},
 
             // material-placeholder
-            { // Multi-line replacement - https://regex101.com/r/eS2vQ3/2
+            { // Multi-line replacement - http://regex101.com/r/eS2vQ3/2
               pattern: /.material-placeholder\({$\n([\s\S]+?)}\);$\n/mg,
               replacement: "@include material-placeholder {\n$1\n}\n",
               order: 24
             },
 
             // navbar generic-variations
-            { // Multi-line replacement - https://regex101.com/r/lX1hH1/4
+            { // Multi-line replacement - http://regex101.com/r/lX1hH1/4
               pattern: /.generic-variations\(unquote\((".navbar"), ~("([^"]+)?")\), (\$[\s\S]+?(?!\r|\n)), {$\n[\s\S]+?(?!\r|\n)[\s\S]+?(?!\r|\n)[\s\S]+?(?!\r|\n)}\);$/mg,
               replacement: "@include navbar-variations(unquote($1), unquote($2), $4);\n",
               order: 25
             },
 
             // fix calc references
-            { // https://regex101.com/r/aZ8iI5/1
+            { // http://regex101.com/r/aZ8iI5/1
               pattern: /calc\(unquote\("([^"]+)"\)\)/gi,
               replacement: "calc($1)",
               order: 100
             },
 
             // fix unquote("", ~"")
-            { //  https://regex101.com/r/vX4nO9/6
+            { //  http://regex101.com/r/vX4nO9/6
               pattern: /\(unquote\(("([^"]+)?"), ~("([^"]+)?")\),/gi,
               replacement: "(unquote($1), unquote($3),",
               order: 101
             },
 
             // alert generic-variations (convert this one last - very broad search)
-            { // Multi-line replacement - https://regex101.com/r/jB1uL1/3
+            { // Multi-line replacement - http://regex101.com/r/jB1uL1/3
               pattern: /.generic-variations\(unquote\(".alert"\), unquote\(("([^"]+)?")\), (\$[\s\S]+?(?!\r|\n)), {$\n[\s\S]+}\);$\n/mg,
               replacement: "@include alert-variations(unquote(\".alert\"), unquote($1), $3);\n",
               order: 250 // very broad search, do this last
             },
 
             // auto generated notice
-            { // Multi-line replacement - https://regex101.com/r/aR2kT5/1
+            { // Multi-line replacement - http://regex101.com/r/aR2kT5/1
               pattern: /([\s\S]+)/mg,
               replacement: "\/\/ This file has been autogenerated by grunt task lessToSass. Any changes will be overwritten.\n\n$1",
               order: 1000 // very broad search, do this last
@@ -286,7 +286,7 @@ module.exports = function (grunt) {
     cssmin: {
       options: {
         // TODO: disable `zeroUnits` optimization once clean-css 3.2 is released
-        //    and then simplify the fix for https://github.com/twbs/bootstrap/issues/14837 accordingly
+        //    and then simplify the fix for http://github.com/twbs/bootstrap/issues/14837 accordingly
         compatibility: 'ie8',
         keepSpecialComments: '*',
         sourceMap: true,
@@ -367,8 +367,8 @@ module.exports = function (grunt) {
         specs: "test/*Spec.js",
         helpers: "test/*Helper.js",
         vendor: [
-          "https://code.jquery.com/jquery-1.10.2.min.js",
-          "https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"
+          "http://code.jquery.com/jquery-1.10.2.min.js",
+          "http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"
         ]
       }
     },
@@ -465,9 +465,9 @@ module.exports = function (grunt) {
     exec: {
       "meteor-init": {
         command: [
-          // Make sure Meteor is installed, per https://meteor.com/install.
+          // Make sure Meteor is installed, per http://meteor.com/install.
           // The curl'ed script is safe; takes 2 minutes to read source & check.
-          "type meteor >/dev/null 2>&1 || { curl https://install.meteor.com/ | sh; }",
+          "type meteor >/dev/null 2>&1 || { curl http://install.meteor.com/ | sh; }",
           // Meteor expects package.js to be in the root directory of
           // the checkout, so copy it there temporarily
           "cp meteor/package.js ."
