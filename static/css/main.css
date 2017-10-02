@@ -157,7 +157,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 }
 @media (max-width: 768px) {
     #portfolio-filter {
-        display: none;
+        margin-top: 0px;
     }
 }
 footer {
