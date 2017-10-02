@@ -1,5 +1,12 @@
 [
 	{
+		"name": "RESTful DegreeConverter",
+		"image": "REST-API.PNG",
+		"url": "https://github.com/ZhivkoZ/DegreeConverter",
+		"date": "Apr 2017",
+		"tags": ["nodejs","Express","AngularJS","API"]
+	},
+	{
 		"name": "Elma-Schedule Site",
 		"image": "elma.PNG",
 		"url": "http://elma2017-program.com",
@@ -10,7 +17,7 @@
 		"name": "Elma-Schedule Site",
 		"image": "snother.PNG",
 		"date": "May 2017",
-		"tags": ["HTML","CSS","Ruby"]
+		"tags": ["design","Ruby","Liquid"]
 	},
 	{
 		"name": "Elma-Schedule Site",
@@ -18,11 +25,31 @@
 		"date": "May 2017",
 		"tags": ["WebMaster"]
 	},
+
+	{
+		"name": "DevOps Certificate",
+		"image": "softuni-bg-certificates.PNG",
+		"url": "https://softuni.bg/certificates/details/22230/314293a7",
+		"date": "Jul 2017",
+		"tags": ["SoftUni","Jenkins","Docker","Nagios","Linux","Vagrant"]
+	},
+	{
+		"name": "Calculator",
+		"image": "calculator-teleric.PNG",
+		"date": "Oct 2015",
+		"tags": ["Teleric","HTML","University courses"]
+	},
+	{
+		"name": "Cool website",
+		"image": "finaxl.png",
+		"date": "Apr 2017",
+		"tags": ["WebMaster", "Frontend"]
+	},
 	{
 		"name": "Cool project 1",
 		"image": "heroku-front.PNG",
 		"date": "Jan 2017",
-		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku","API"]
+		"tags": ["Meteor JS","Custom"]
 	},
 	{
 		"name": "Cool project 1",
@@ -50,14 +77,7 @@
 		"tags": ["Meteor JS","HTML","handlebars"]
 	},
 	{
-		"name": "RESTful DegreeConverter",
-		"image": "REST-API.PNG",
-		"url": "https://github.com/ZhivkoZ/DegreeConverter",
-		"date": "Apr 2017",
-		"tags": ["nodejs","Express","AngularJS","API"]
-	},
-	{
-		"name": "Cool project 2",
+		"name": "Cool project 2, ChatIO",
 		"image": "chat-welcome.PNG",
 		"url": "http://thawing-river-37723.herokuapp.com/",
 		"date": "Nov 2016",
@@ -70,7 +90,7 @@
 		"tags": ["nodejs","SocketIO","JQuery"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "Calculator Cool project 3",
 		"image": "Calculator.PNG",
 		"date": "Jan 2017",
 		"tags": ["AngularJS","HTML","CSS"]
@@ -88,6 +108,7 @@
 		"date": "Jan 2017",
 		"tags": ["AngularJS","HTML","CSS","bootstrap","JSON"]
 	},
+
 	{
 		"name": "Cool project  4",
 		"image": "jsonfile-Simple-Web-site.PNG",
@@ -102,11 +123,11 @@
 		"tags": ["AngularJS","Frontend","Material-Design"]
 	},
 	{
-		"name": "ZHblog",
+		"name": "Zzz ZHblog",
 		"image": "ZHblog.PNG",
 		"url": "http://zhivkoz.github.io/ZHblog/",
 		"date": "Jan 2017",
-		"tags": ["Jekyll","git","Sass"]
+		"tags": ["Jekyll"]
 	},
 	{
 		"name": "Cool project  6",
@@ -124,7 +145,7 @@
 		"name": "CODEFOLIO",
 		"image": "CODEFOLIO.PNG",
 		"date": "Jan 2017",
-		"tags": ["Meteor JS","nodejs","theme","CSS"]
+		"tags": ["Meteor JS","nodejs","Practice-is-madness-but-helps","CSS"]
 	},
 	{
 		"name": "rocket-shop",
@@ -142,13 +163,13 @@
 		"name": "Cool project  7",
 		"image": "FrontBooks.PNG",
 		"date": "Mar 2015",
-		"tags": ["C#","School-project","HTML","CSS"]
+		"tags": ["C#","University-project","Homework-exam"]
 	},
 	{
 		"name": "Cool project  7",
 		"image": "Games.PNG",
 		"date": "Mar 2015",
-		"tags": ["C#","School-project","HTML","CSS"]
+		"tags": ["C#","University-project","Homework-exam"]
 	},
 	{
 		"name": "Cool project  8",
@@ -166,25 +187,19 @@
 		"name": "Cool project  9",
 		"image": "wp-gallery.PNG",
 		"date": "Oct 2016",
-		"tags": ["Wordpress"]
+		"tags": ["Wordpress","Practice"]
 	},
 	{
 		"name": "Cool project  9",
 		"image": "wp-feed-prof.PNG",
 		"date": "Oct 2016",
-		"tags": ["Wordpress"]
-	},
-	{
-		"name": "Cool project  9",
-		"image": "wp-Meet-The-Team.PNG",
-		"date": "Oct 2016",
-		"tags": ["Wordpress"]
+		"tags": ["Wordpress","Practice"]
 	},
 	{
 		"name": "Cool project  9",
 		"image": "wp-gallery-footer.PNG",
 		"date": "Oct 2016",
-		"tags": ["Wordpress"]
+		"tags": ["Wordpress","Practice"]
 	},
 	{
 		"name": "Cool project 10",
@@ -205,6 +220,12 @@
 		"image": "control-screen.PNG",
 		"date": "May 2017",
 		"tags": ["HTML","CSS","Responsive"]
+	},
+	{
+		"name": "Gneiss Parallax Website",
+		"image": "gneiss.PNG",
+		"date": "May 2017",
+		"tags": ["HTML","CSS","Fixed -Responsiveness"]
 	},
 	{
 		"name": "Cool project  12",
@@ -237,12 +258,7 @@
 		"date": "Oct 2016",
 		"tags": ["HTML","CSS","Parallax"]
 	},
-	{
-		"name": "Calculator",
-		"image": "calculator-teleric.PNG",
-		"date": "Oct 2015",
-		"tags": ["Teleric","HTML"]
-	},
+
 	{
 		"name": "Website design",
 		"image": "Ves-illustratoro.PNG",
@@ -250,10 +266,17 @@
 		"tags": ["Illustrator"]
 	},
 	{
-		"name": "Band-logo",
+		"name": "TomorrowMayFall-Design-logo",
 		"image": "tmf.PNG",
 		"date": "Oct 2015",
-		"tags": ["Illustrator","CorelDraw"]
+		"tags": ["CorelDraw","MY-Custom-design"]
+	},
+	{
+		"name": "TomorrowMayFall-Design-logo",
+		"image": "tmf2.PNG",
+		"date": "Oct 2015",
+		"url": "https://www.youtube.com/watch?v=vJ6XRmPzLks",
+		"tags": ["Adobe AfterEffects","Sue-them-when-they-become-famous", "check-out-their-video","VectorLogo"]
 	},
 	{
 		"name": "Logo",
@@ -266,7 +289,7 @@
 		"image": "codecademy.PNG",
 		"url": "https://www.codecademy.com/zhivko73656",
 		"date": "Oct 2016",
-		"tags": ["Javascript","codecademy"]
+		"tags": ["JavaScript","PHP","codecademy"]
 	},
 	{
 		"image": "change-is.PNG",
