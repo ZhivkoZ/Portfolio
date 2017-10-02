@@ -136,8 +136,8 @@
 	{
 		"name": "CODEFOLIO",
 		"image": "CODEFOLIO.PNG",
-		"date": "Jan 2017",
-		"tags": ["Meteor JS","nodejs","Practice-is-madness-but-helps","CSS"]
+		"date": "Jan 2016",
+		"tags": ["Meteor JS","Practice-is-madness-but-helps"]
 	},
 	{
 		"name": "rocket-shop",
@@ -155,13 +155,13 @@
 		"name": "Cool project  7",
 		"image": "FrontBooks.PNG",
 		"date": "Mar 2015",
-		"tags": ["C#","University-project","HomeworkExam"]
+		"tags": ["C#","UniversityProject","HomeworkExam"]
 	},
 	{
 		"name": "Cool project  7",
 		"image": "Games.PNG",
 		"date": "Mar 2015",
-		"tags": ["C#","University-project","HomeworkExam"]
+		"tags": ["C#","UniversityProject","HomeworkExam"]
 	},
 	{
 		"name": "Cool project  8",
