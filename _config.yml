@@ -1,8 +1,7 @@
 title: Zhivko Zhelev
-description: My Personal Portfolio
+description: A Personal Portfolio Website
 author: Zhivko Zhelev
-logo: static/img/avatar.png
-about: Developer
+about: Freelance Developer
 
 base.url: https://zhivkoz.github.io
 url: /Portfolio
@@ -22,4 +21,4 @@ paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
 jekyll-mentions:
-    base_url: /Portfolio
+#      base_url: /Portfolio

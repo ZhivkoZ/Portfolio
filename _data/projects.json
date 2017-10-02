@@ -27,13 +27,6 @@
 	},
 
 	{
-		"name": "DevOps Certificate",
-		"image": "softuni-bg-certificates.PNG",
-		"url": "https://softuni.bg/certificates/details/22230/314293a7",
-		"date": "Jul 2017",
-		"tags": ["SoftUni","Jenkins","Docker","Nagios","Linux","Vagrant"]
-	},
-	{
 		"name": "Calculator",
 		"image": "calculator-teleric.PNG",
 		"date": "Oct 2015",
@@ -284,6 +277,13 @@
 		"date": "Feb 2017",
 		"tags": ["Inkscape"]
 	},
+		{
+			"name": "Linux for DevOps - june 2017 - Certificate",
+			"image": "linux for devops - june 2017 - certificate.jpeg",
+			"url": "https://softuni.bg/certificates/details/22230/314293a7",
+			"date": "Jul 2017",
+			"tags": ["SoftUni","Jenkins","Docker","Nagios","Linux","Vagrant"]
+		},
 	{
 		"name": "Codecademy Profile",
 		"image": "codecademy.PNG",
