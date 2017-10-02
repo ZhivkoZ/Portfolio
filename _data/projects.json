@@ -25,7 +25,6 @@
 		"date": "May 2017",
 		"tags": ["WebMaster"]
 	},
-
 	{
 		"name": "Calculator",
 		"image": "calculator-teleric.PNG",
@@ -93,27 +92,27 @@
 		"image": "Computer_Solutions-Simple-Web-site.PNG",
 		"url": "https://plnkr.co/bi8rJ6ri259nO2kDIQyJ",
 		"date": "Jan 2017",
-		"tags": ["AngularJS","HTML","CSS","bootstrap","JSON"]
+		"tags": ["AngularJS","JSON"]
 	},
 	{
 		"name": "Cool project  4",
 		"image": "services-Simple-Web-site.PNG",
 		"date": "Jan 2017",
-		"tags": ["AngularJS","HTML","CSS","bootstrap","JSON"]
+		"tags": ["AngularJS","JSON"]
 	},
 
 	{
 		"name": "Cool project  4",
 		"image": "jsonfile-Simple-Web-site.PNG",
 		"date": "Jan 2017",
-		"tags": ["AngularJS","HTML","CSS","bootstrap","JSON"]
+		"tags": ["AngularJS","JSON"]
 	},
 	{
 		"name": "md-material-practice",
 		"image": "ng-material.PNG",
 		"url": "https://codepen.io/Zhivko/project/full/AYyGYA/",
 		"date": "Mar 2017",
-		"tags": ["AngularJS","Frontend","Material-Design"]
+		"tags": ["AngularJS","Frontend","Another Material"]
 	},
 	{
 		"name": "Zzz ZHblog",
