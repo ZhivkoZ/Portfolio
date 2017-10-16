@@ -277,12 +277,6 @@
 		"url": "https://www.youtube.com/watch?v=vJ6XRmPzLks",
 		"tags": ["Adobe AfterEffects","check-out-their-video"]
 	},
-	{
-		"name": "LogoLogoLogo",
-		"image": "Gossip-Capture.PNG",
-		"date": "Feb 2017",
-		"tags": ["Inkscape"]
-	},
 		{
 			"name": "Linux for DevOps - june 2017 - Certificate",
 			"image": "linux for devops - june 2017 - certificate.jpeg",
@@ -290,6 +284,13 @@
 			"date": "Jun 2017",
 			"tags": ["SoftUni","DevOps"]
 		},
+	{
+		"name": "LogoLogoLogo",
+		"image": "Gossip-Capture.PNG",
+		"date": "Feb 2017",
+		"tags": ["Inkscape"]
+	},
+
 	{
 		"name": "Codecademy Profile",
 		"image": "codecademy.PNG",
