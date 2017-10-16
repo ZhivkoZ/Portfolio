@@ -1,6 +1,6 @@
 (function($){
 	// Init controller
-var controller = new ScrollMagic.Controller({
+let controller = new ScrollMagic.Controller({
   globalSceneOptions: {
     duration: $('section').height(),
     triggerHook: .025,
