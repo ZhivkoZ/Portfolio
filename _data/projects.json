@@ -38,50 +38,51 @@
 		"tags": ["WebMaster", "Frontend"]
 	},
 	{
-		"name": "Cool project 1",
-		"image": "heroku-front.PNG",
-		"date": "Jan 2017",
-		"tags": ["Meteor JS","Custom","DEPRECATED"]
-	},
-	{
-		"name": "Cool project 1",
-		"image": "heroku-search-page.PNG",
-		"date": "Jan 2017",
-		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku"]
-	},
-	{
-		"name": "Cool project 1",
-		"image": "postDeleted.PNG",
-		"date": "Jan 2017",
-		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku"]
-	},
-	{
-		"name": "Cool project 1",
-		"image": "gossipchat123PNG.PNG",
-		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
-		"date": "Jan 2017",
-		"tags": ["Meteor JS","Chat","Responsive"]
-	},
-	{
-		"name": "Cool project 1",
-		"image": "fa-fa-code.PNG",
-		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
-		"date": "Jan 2017",
-		"tags": ["Meteor JS","HTML","handlebars"]
-	},
-	{
-		"name": "Cool project 2, ChatIO",
+		"name": "Cool project 1, ChatIO",
 		"image": "chat-welcome.PNG",
 		"url": "http://thawing-river-37723.herokuapp.com/",
 		"date": "Nov 2016",
 		"tags": ["nodejs","SocketIO","JQuery"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "Cool project 1",
 		"image": "chat-chat.PNG",
 		"date": "Nov 2016",
 		"tags": ["nodejs","SocketIO","JQuery"]
 	},
+	{
+		"name": "Cool project 2",
+		"image": "heroku-front.PNG",
+		"date": "Jan 2017",
+		"tags": ["Meteor JS","Custom","DEPRECATED"]
+	},
+	{
+		"name": "Cool project 2",
+		"image": "heroku-search-page.PNG",
+		"date": "Jan 2017",
+		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku"]
+	},
+	{
+		"name": "Cool project 2",
+		"image": "postDeleted.PNG",
+		"date": "Jan 2017",
+		"tags": ["Meteor JS","HTML","CSS","nodejs","Heroku"]
+	},
+	{
+		"name": "Cool project 2",
+		"image": "gossipchat123PNG.PNG",
+		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
+		"date": "Jan 2017",
+		"tags": ["Meteor JS","Chat","Responsive"]
+	},
+	{
+		"name": "Cool project 2",
+		"image": "fa-fa-code.PNG",
+		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
+		"date": "Jan 2017",
+		"tags": ["Meteor JS","HTML","handlebars"]
+	},
+
 	{
 		"name": "Calculator Cool project 3",
 		"image": "Calculator.PNG",
