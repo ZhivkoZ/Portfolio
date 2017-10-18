@@ -53,7 +53,7 @@
 	{
 		"name": "Cool project 2",
 		"image": "gossipchat123PNG.PNG",
-		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
+		"url": "http://enigmatic-lowlands-70396.herokuapp.com/gossip123",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","Chat","Responsive"]
 	},
@@ -78,7 +78,7 @@
 	{
 		"name": "Cool project 2",
 		"image": "fa-fa-code.PNG",
-		"url": "http://enigmatic-lowlands-70396.herokuapp.com/",
+		"url": "http://enigmatic-lowlands-70396.herokuapp.com/gossip123",
 		"date": "Jan 2017",
 		"tags": ["Meteor JS","HTML","handlebars"]
 	},
