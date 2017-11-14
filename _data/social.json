@@ -1,5 +1,9 @@
 [
   {
+    "icon": "fa-linkedin",
+    "link": "http://www.linkedin.com/in/zhivko-zhelev-aa5493100?trk=nav_responsive_tab_profile_pic"
+  },
+  {
     "icon": "fa-facebook",
     "link": "http://www.facebook.com/profile.php?id=100000599022207"
   },
@@ -7,10 +11,5 @@
     "icon": "fa-twitter",
     "link": "http://twitter.com/DAMDAMDA"
   },
-  {
-    "icon": "fa-linkedin",
-    "link": "http://www.linkedin.com/in/zhivko-zhelev-aa5493100?trk=nav_responsive_tab_profile_pic"
-  },
-
 
 ]
